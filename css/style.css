@@ -254,7 +254,7 @@ li{
 
 /* ====== Header ========= */ 
 .intro {
-  background-image: url("../images/plants.jpg"); 
+  background-image: url("../images/lookout.jpg"); 
     /*background attachment describes whether the image should scroll or be fixed*/ 
     background-attachment: fixed-top;
     background-repeat: no-repeat;
