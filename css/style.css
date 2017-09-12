@@ -253,6 +253,28 @@ li{
 }
 
 /* ====== Header ========= */ 
+.intro {
+  background-image: url("../images/plants.jpg"); 
+    /*background attachment describes whether the image should scroll or be fixed*/ 
+    background-attachment: fixed-top;
+    background-repeat: no-repeat;
+    background-position: center 100% 100%;
+    /*make sure that the background size will only cover the screen size*/ 
+    background-size: cover; 
+    /*prefix for mozilla browser*/
+    -moz-background-size: cover; 
+    /*prefix for opera browser*/
+    -o-background-size: cover; 
+    /*Webkit includes both chrome and safari browsers*/ 
+    -webkit-background-size: cover; 
+
+
+}
+
+.intro-overlay{
+    background-color: rgba(255, 255, 255, 0.75); 
+}
+
 .home { 
     background-image: url("../images/home.jpg"); 
     /*background attachment describes whether the image should scroll or be fixed*/ 
