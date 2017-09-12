@@ -254,7 +254,7 @@ li{
 
 /* ====== Header ========= */ 
 .home { 
-    background-image: url("../images/quechua-kids.jpg"); 
+    background-image: url("../images/home.jpg"); 
     /*background attachment describes whether the image should scroll or be fixed*/ 
     background-attachment: fixed-top;
     background-repeat: no-repeat;
