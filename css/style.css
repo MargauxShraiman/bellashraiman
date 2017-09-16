@@ -206,7 +206,7 @@ li{
 }
 
 .navbar-default .navbar-nav > li > a:hover{
-    color: #FFFFFF !important ;
+    color: #A50000 !important ;
     background-color:transparent; 
 }
 
@@ -239,12 +239,14 @@ li{
     color: #A50000 !important; 
 
 }
+
 .dropdown .dropdown-menu > li > a{
     color: #A50000 !important;
     font-family: "helvetica", sans-serif !important;
     font-weight: 120;
     font-size: 10px;
 }
+
 
 .navbulb {
     margin: -10px;
