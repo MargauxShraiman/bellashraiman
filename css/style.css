@@ -276,7 +276,7 @@ li{
 }
 
 .home { 
-    background-image: url("../images/home.jpg"); 
+    background-image: url("../images/twoboys.jpg"); 
     /*background attachment describes whether the image should scroll or be fixed*/ 
     background-attachment: fixed-top;
     background-repeat: no-repeat;
@@ -293,7 +293,7 @@ li{
 
 /*This adds like a filter on top of the background image*/ 
 .home-overlay{
-    background-color: rgba(31, 31, 31, 0.75); 
+    background-color: rgba(31, 31, 31, 0.5); 
 }
 
 .home-iphone img { 
