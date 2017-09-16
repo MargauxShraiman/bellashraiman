@@ -211,7 +211,7 @@ li{
 }
 
 .navbar-default .navbar-nav > li > a:focus{
-    color: #FFFFFF !important;
+    color: #A50000 !important;
     background-color:transparent; 
 }
 
