@@ -745,25 +745,25 @@ li{
 
 /*============= Articles ============*/
 .articles {
-    background: #0B4F6C !important;
+    background: #fff !important;
 }
 .readmorearticles{
     text-align: center;
     vertical-align: middle;
     line-height: 90px; 
     padding-top: 30px;
-    color: #fff;
+    color: #0B4F6C;
 }
 
 .articles p{
-    color: #fff;
+    color: #0B4F6C;
 }
 
 .articles h2 {
-    color: #fff;
+    color: #0B4F6C;
 }
 .art {
-    color: #fff;
+    color: #0B4F6C;
 }
 
 .art h3{
