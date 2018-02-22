@@ -70,14 +70,14 @@ body {
 .hex h1, .hex p {
   width: 100%;
   padding: 5%;
-  box-sizing:border-box;
+  box-sizing: border-box;
   background-color: #DA1B14;
   font-weight: 300;
   -webkit-transition:  -webkit-transform .2s ease-out, opacity .3s ease-out;
           transition:          transform .2s ease-out, opacity .3s ease-out;
 }
 .hex h1 {
-  bottom: 50%;
+  bottom: 45%;
   padding-top:50%;
   font-size: 1.5em;
   z-index: 1;
@@ -85,18 +85,11 @@ body {
       -ms-transform:translate3d(0,-100%,0);
           transform:translate3d(0,-100%,0);
 }
-.hex h1::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 45%;
-  width: 10%;
-  text-align: center;
-  border-bottom: 1px solid #fff;
-}
+
 .hex p {
   top: 50%;
   padding-bottom:50%;
+  color: #DA1B14;
   -webkit-transform:translate3d(0,100%,0);
       -ms-transform:translate3d(0,100%,0);
           transform:translate3d(0,100%,0);
